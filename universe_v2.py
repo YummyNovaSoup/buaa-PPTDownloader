@@ -10,7 +10,7 @@ import time
 # ================= 配置区 =================
 USERNAME = "你的账号"
 PASSWORD = "你的密码"
-TARGET_COURSE_URL = "https://classroom.msa.buaa.edu.cn/livingroom?course_id=115538&sub_id=5377422&tenant_code=21"
+TARGET_COURSE_URL = "https://classroom.msa.buaa.edu.cn/livingroom?course_id=xxxxx&sub_id=xxxxx..."
 # ==========================================
 
 # 这里的 service 参数必须和浏览器里的一模一样，否则 CAS 会报错
